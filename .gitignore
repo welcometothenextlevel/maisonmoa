@@ -1,0 +1,4 @@
+_src/
+_review/
+.DS_Store
+node_modules/
